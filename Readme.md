@@ -78,20 +78,16 @@ food-delivery-ui/
 
 ## 📸 Screenshots
 
-### Onboarding Screen
-![Onboarding](./public/onboardPage.png)
+<div>
 
-### Login Screen
-![Login](./public/loginPage.png)
+<img src="./public/onboardPage.png" alt="Onboarding" width="32%" />
+<img src="./public/loginPage.png" alt="Login" width="32%" />
+<img src="./public/homePage.png" alt="Home" width="32%" />
 
-### Home Screen
-![Home](./public/homePage.png)
+<img src="./public/searchPage.png" alt="Search" width="32%" />
+<img src="./public/profilePage.png" alt="Profile" width="32%" />
 
-### Search Screen
-![Search](./public/searchPage.png)
-
-### Profile Screen
-![Profile](./public/profilePage.png)
+</div>
 
 ---
 
